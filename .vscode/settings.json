@@ -1,0 +1,15 @@
+{
+    "terminal.explorerKind": "external",
+    "terminal.integrated.allowMnemonics": true,
+    "terminal.integrated.confirmOnExit": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.detectLocale": "on",
+    "terminal.integrated.enableBell": true,
+    "terminal.integrated.environmentChangesIndicator": "on",
+    "terminal.integrated.experimentalUseTitleEvent": true,
+    "terminal.integrated.localEchoExcludePrograms": [],
+    "terminal.integrated.macOptionIsMeta": true,
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "terminal.integrated.tabs.enabled": true
+}
